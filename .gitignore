@@ -1,2 +1,5 @@
 YOLO/images/
 attention/vocab.pt
+.python-version
+attention/tokenizer_en.json
+attention/tokenizer_fr.json
