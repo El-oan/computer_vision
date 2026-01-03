@@ -1,5 +1,4 @@
 YOLO/images/
-attention/vocab.pt
+attention/checkpoints
 .python-version
-attention/tokenizer_en.json
-attention/tokenizer_fr.json
+attention/tokenizers
