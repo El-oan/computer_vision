@@ -1,0 +1,12 @@
+with bfloat16: 
+Using device: mps
+Epoch n°0 Training ====
+Epoch:      1 | Accum. Step:   1 | Loss:   8.08 | Tokens/sec:   228.4 | Learn. Rate: 5.4e-07
+Epoch:     41 | Accum. Step:   5 | Loss:   8.03 | Tokens/sec:   755.7 | Learn. Rate: 1.1e-05
+Epoch:     81 | Accum. Step:   9 | Loss:   7.82 | Tokens/sec:   778.2 | Learn. Rate: 2.2e-05
+without bfloat16 : 
+Using device: mps
+Epoch n°0 Training ====
+Epoch:      1 | Accum. Step:   1 | Loss:   8.06 | Tokens/sec:   118.9 | Learn. Rate: 5.4e-07
+Epoch:     41 | Accum. Step:   5 | Loss:   7.99 | Tokens/sec:   894.2 | Learn. Rate: 1.1e-05
+Epoch:     81 | Accum. Step:   9 | Loss:   7.79 | Tokens/sec:   920.7 | Learn. Rate: 2.2e-05
