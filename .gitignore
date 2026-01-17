@@ -2,3 +2,4 @@ YOLO/images/
 attention/checkpoints
 .python-version
 attention/tokenizers
+attention/kaggle
