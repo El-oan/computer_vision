@@ -1,6 +1,15 @@
+#yolo
 YOLO/images/
+
+#attention
 attention/checkpoints
-.python-version
 attention/tokenizers
 attention/kaggle
+
+#sam2
+Sam2/data
+sav_val.tar
+
+#rest
 .venv
+.python-version
