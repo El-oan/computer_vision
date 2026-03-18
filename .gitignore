@@ -3,3 +3,4 @@ attention/checkpoints
 .python-version
 attention/tokenizers
 attention/kaggle
+.venv
