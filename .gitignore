@@ -2,9 +2,8 @@
 YOLO/images/
 
 #attention
-attention/checkpoints
-attention/tokenizers
 attention/kaggle
+attention/checkpoints
 
 #sam2
 Sam2/data
