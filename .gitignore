@@ -4,6 +4,8 @@ YOLO/images/
 #attention
 attention/kaggle
 attention/checkpoints
+attention/tokenizers/tokenizer_src.json
+attention/tokenizers/tokenizer_tgt.json
 
 #sam2
 Sam2/data
