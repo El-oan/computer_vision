@@ -14,3 +14,4 @@ sav_val.tar
 #rest
 .venv
 .python-version
+.DS_Store
